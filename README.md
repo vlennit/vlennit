@@ -6,7 +6,10 @@ Desarrolaldor web y una estudiante de ciencia de datos, soy un programador entus
 
 - Trabajo como desarrollador web independiente en la creación de sitios de todo tipo, personalización de temas y apps en Shopify e integración de plataformas a través de API y REST API.
 - Aspirante a científico de datos, estudiando actualmente para desarrollar habilidades en; Python, SQL, pandas, Sci-kit learn, ML, EDA, estadística y matemáticas.
-- Me 
+- Me interesa lo relacionado a la tecnología y su aplicación para solucionar problemas.
+
+Mis proyectos de DS en <a href="https://www.kaggle.com/valentinmaz" target="_blank"><img align="left" alt="Git" width="13px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" /><a/>
+
 
 ---
 
