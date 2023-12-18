@@ -8,8 +8,7 @@ Desarrolaldor web y una estudiante de ciencia de datos, soy un programador entus
 - Aspirante a científico de datos, estudiando actualmente para desarrollar habilidades en; Python, SQL, pandas, Sci-kit learn, ML, EDA, estadística y matemáticas.
 - Me interesa lo relacionado a la tecnología y su aplicación para solucionar problemas.
 
-Mis proyectos de DS en <a href="https://www.kaggle.com/valentinmaz" target="_blank"><img align="left" alt="Git" width="13px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" /><a/>
-
+Mis proyectos de DS en <a href="https://www.kaggle.com/valentinmaz" target="_blank"><img alt="Kaggle" style="position:absolute;margin-left: 8px;width:50px;margin-top: -12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" /><a/>
 
 ---
 
