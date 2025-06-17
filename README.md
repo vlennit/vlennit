@@ -2,7 +2,7 @@
 
 **`Desarrollador web | Científico de datos`**
 
-Desarrolaldor web y una estudiante de ciencia de datos, soy un programador entusiasta del análisis de datos:
+Desarrolaldor web y estudiante de ciencia de datos, soy un programador entusiasta del análisis de datos:
 
 - Trabajo como desarrollador web independiente en la creación de sitios de todo tipo, personalización de temas y apps en Shopify e integración de plataformas a través de API y REST API.
 - Aspirante a científico de datos, estudiando actualmente para desarrollar habilidades en; Python, SQL, pandas, Sci-kit learn, ML, EDA, estadística y matemáticas.
