@@ -5,4 +5,5 @@
 👋 Hola, soy Valentín Magaña<br/>
 👀 Me interesa el desarrollo web enfocado en soluciones a medida, la arquitectura de software y la ciencia.<br/>
 🐳 Entusiasta de la contenedorización con Docker.<br/>
-🌱 Actualmente desarrollando asistentes de IA para automatizar e interactuar con sistemas empresariales.
+🌱 Actualmente desarrollando asistentes de IA para automatizar e interactuar con sistemas empresariales.<br/>
+📊 Mis modelos de Machine Learning y análisis en [Kaggle](https://www.kaggle.com/valentinmaz).
